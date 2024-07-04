@@ -25,6 +25,7 @@ In this journal, the components used include an Arduino UNO (ATMEGA328) microcon
 
 ## Design Prototype
 ![image](https://github.com/Alfanfuad/Web-Based-Water-Conservation-Monitoring-System/assets/71118100/8a9f2dee-69a0-4fa8-8512-81a02550e660)
+![rainSensor_bb](https://github.com/Alfanfuad/Web-Based-Water-Conservation-Monitoring-System/assets/71118100/312620f7-a5c6-443e-b8e9-1e2aa1e3d5cd)
 
 ## Implementation Documentation
 ![image](https://github.com/Alfanfuad/Web-Based-Water-Conservation-Monitoring-System/assets/71118100/724754ab-d1ae-435f-b71e-097e7111c4ad)
